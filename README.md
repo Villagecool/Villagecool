@@ -1,4 +1,9 @@
-### Hi there 👋
+### "Hi there 👋" - README.md
+Anyways, Im Vlliage, and I am a part time coder.
+I dont go TOO crazy and mainly stick to two main games
+- FNF (I do both Haxe and some Lua)
+- Minecraft bedrock (Json ofc and am getting better at js scritps)
+That sums it up ig
 
 <!--
 **Villagecool/Villagecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
