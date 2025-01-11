@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+|Component|Value|
+|---|---|
+|testy1|true|
+|testy2|42|
