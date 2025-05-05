@@ -3,6 +3,7 @@ Anyways, Im Vlliage, and I am a part time coder.
 I dont go TOO crazy and mainly stick to two main games
 - FNF (I do both Haxe and some Lua)
 - Minecraft Bedrock (I've gotten really good a js scripts and ofc I use JSON stuff)
+
 That sums it up ig
 
 <!--
