@@ -6,7 +6,7 @@ I dont go TOO crazy and mainly stick to two main games
 
 That sums it up ig
 
-![Vlliages's GitHub stats](https://github-readme-stats.vercel.app/api?username=Villagecool&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Villagecool)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Villagecool/Villagecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
